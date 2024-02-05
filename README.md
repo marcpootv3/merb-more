@@ -1,1 +1,1 @@
-Added check of parameter type before setting required_grad=True for frozen layers (#8318)
+Do RTDETR file suffix check using pathlib instead of string manipulations (#8525)
