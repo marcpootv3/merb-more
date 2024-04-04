@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
