@@ -1,1 +1,1 @@
-Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
